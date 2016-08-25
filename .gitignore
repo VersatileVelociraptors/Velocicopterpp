@@ -1,0 +1,4 @@
+bin/Velocicopter
+bin/linux_build/
+*.out
+*.o
