@@ -24,7 +24,7 @@ public:
 	void update(float dt);
 	std::vector<Velociraptor*> victims;
 private:
-	float distanceTravelled;
+	float distanceTravelled = 0;
 	int dir;
 	sf::RenderWindow *window;
 protected:

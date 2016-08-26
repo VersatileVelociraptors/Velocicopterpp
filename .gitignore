@@ -1,4 +1,6 @@
 bin/Velocicopter
 bin/linux_build/
+bin/win32_build/
 *.out
 *.o
+*.exe
